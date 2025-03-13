@@ -9,7 +9,7 @@
 
 ![Lenguajes](https://skillicons.dev/icons?i=cs,java,python,html,css,js,sql)
 ![Herramientas](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,mysql,oracle,mssql)
-![SQL Server](https://www.indiamart.com/proddetail/sql-server-2022-standard-edition-2852547393748.html)
+![SQL Server](https://www.pinterest.com/pin/580260733214696839/)
 
 
 
