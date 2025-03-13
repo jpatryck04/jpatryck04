@@ -30,8 +30,13 @@
 🏅 Certificados y Cursos Completados
 - 📘 **Nombre del curso:** Python para principiantes - Aprende a programar desde 0  
   🏫 **Institución:** Udemy, Inc.
-  📅 **Fecha:** Marzo 2025  
+  📅 **Fecha:** 10 Marzo 2025  
   📄 [Ver certificado](./certificados/Certificado%20Udemy%20-%20Python.pdf)
+
+  - 📘 **Nombre del curso:** Curso ITEssentials  
+  🏫 **Institución:** Cisco Networking Academy  
+  📅 **Fecha:** 22 Abril 2024  
+  📄 [Ver certificado](./certificados/ITEssentialsUpdate20250313-28-oua1fi.pdf)
 
 
 
