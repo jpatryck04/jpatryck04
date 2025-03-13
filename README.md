@@ -9,7 +9,7 @@
 
 ![Lenguajes](https://skillicons.dev/icons?i=cs,java,python,html,css,js,sql)
 ![Herramientas](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,mysql,oracle,mssql)
-![SQL Server](https://toppng.com/free-image/sql-server-logo-PNG-free-PNG-Images_34203)
+![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)
 
 
 
