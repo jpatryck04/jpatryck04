@@ -9,6 +9,8 @@
 
 ![Lenguajes](https://skillicons.dev/icons?i=cs,java,python,html,css,js,sql)
 ![Herramientas](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,mysql,oracle,mssql)
+![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)
+
 
 
 📌 Proyectos destacados
