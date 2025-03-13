@@ -22,11 +22,6 @@
 | Optimizador de Precios       | Modelo para e-commerce con IA             | Python, Machine Learning |
 
 
-📈 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpatryck04&show_icons=true&theme=radical)
-
-
 🏅 Certificados y Cursos Completados
 - 📘 **Nombre del curso:** Python para principiantes - Aprende a programar desde 0  
   🏫 **Institución:** Udemy, Inc.
@@ -40,6 +35,9 @@
 
 
 
+📈 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpatryck04&show_icons=true&theme=radical)
 
 
 📫 Contacto
