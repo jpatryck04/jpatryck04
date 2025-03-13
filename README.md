@@ -27,6 +27,19 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpatryck04&show_icons=true&theme=radical)
 
 
+🏅 Certificados y Cursos Completados
+- 📘 **Nombre del curso:** Python para principiantes - Aprende a programar desde 0  
+  🏫 **Institución:** Udemy, Inc.
+  📅 **Fecha:** Marzo 2025  
+  📄 [Ver certificado](https://www.udemy.com/certificate/UC-b700d2c5-5d46-4ed6-8c7a-4d26dd34888c/)
+
+- 📘 **Nombre del curso:** Fundamentos de SQL  
+  🏫 **Institución:** Oracle Academy  
+  📅 **Fecha:** Diciembre 2024  
+  📄 [Ver certificado](https://enlace-certificado.com)
+
+
+
 📫 Contacto
 
 📧 Correo: patryckyandelljimenez@gmail.com  
