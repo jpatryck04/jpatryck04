@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 ¡Hola! Soy Patryck Jiménez
 
-<!--
-**jpatryck04/jpatryck04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Desarrollo de Software  
+💻 Apasionado por la programación, la tecnología y el aprendizaje continuo  
+🔐 Interesado en Ciberseguridad, Minería de Datos y Auditoría Informática  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologías y herramientas que utilizo
+
+![Lenguajes](https://skillicons.dev/icons?i=cs,java,python,html,css,js,sql)
+![Herramientas](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,mysql,oracle,mssql)
+
+
+📌 Proyectos destacados
+
+|---------- Proyecto ----------|---------------- Descripción --------------|------ Tecnologías -------|
+|------------------------------|-------------------------------------------|--------------------------|
+| Agenda Electrónica           | Aplicación en C# para gestionar contactos |    C#, Windows Forms     |
+| Sistema de Consultas Médicas | Registro de consultas por cita o turno    |    C#, Oracle, .NET      |
+| Optimizador de Precios       | Modelo para e-commerce con IA             | Python, Machine Learning |
+
+
+📈 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpatryck04&show_icons=true&theme=radical)
+
+
+📫 Contacto
+
+📧 Correo: patryckyandelljimenez@gmail.com  
+💼 LinkedIn: [https://www.linkedin.com/in/patryck-jim%C3%A9nez/](http://www.linkedin.com/in/patryck-jim%C3%A9nez)
