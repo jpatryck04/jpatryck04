@@ -32,7 +32,7 @@
   - 📘 **Nombre del curso:** Introducción a la programación con C# desde 0  
   🏫 **Institución:** Udemy, Inc
   📅 **Fecha:** 13 Marzo 2025  
-  📄 [Ver certificado](./certificados/certificados%Certificado%Udemy%-%C#.pdf)
+  📄 [Ver certificado](./certificados/Certificado%20Udemy%20-%20C%23.pdf)
 
   - 📘 **Nombre del curso:** Curso ITEssentials  
   🏫 **Institución:** Cisco Networking Academy  
