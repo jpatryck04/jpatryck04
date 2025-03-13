@@ -33,10 +33,7 @@
   📅 **Fecha:** Marzo 2025  
   📄 [Ver certificado](https://www.udemy.com/certificate/UC-b700d2c5-5d46-4ed6-8c7a-4d26dd34888c/)
 
-- 📘 **Nombre del curso:** Fundamentos de SQL  
-  🏫 **Institución:** Oracle Academy  
-  📅 **Fecha:** Diciembre 2024  
-  📄 [Ver certificado](https://enlace-certificado.com)
+
 
 
 
