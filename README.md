@@ -31,7 +31,7 @@
 - 📘 **Nombre del curso:** Python para principiantes - Aprende a programar desde 0  
   🏫 **Institución:** Udemy, Inc.
   📅 **Fecha:** Marzo 2025  
-  📄 [Ver certificado](./certificados/Certificado Udemy - Python.pdf)
+  📄 [Ver certificado](./certificados/Certificado%20Udemy%20-%20Python.pdf)
 
 
 
