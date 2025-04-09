@@ -58,4 +58,4 @@
 📫 Contacto
 
 📧 Correo: patryckyandelljimenez@gmail.com  
-💼 LinkedIn: [https://www.linkedin.com/in/patryck-jim%C3%A9nez/](http://www.linkedin.com/in/patryck-jim%C3%A9nez)
+💼 LinkedIn: [Patryck Jimenez](http://www.linkedin.com/in/patryck-jim%C3%A9nez)
