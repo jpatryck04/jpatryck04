@@ -17,9 +17,9 @@
 
 |---------- Proyecto ----------|---------------- Descripción ---------------|------ Tecnologías -------|------ Repositorios -------|
 |------------------------------|--------------------------------------------|--------------------------|--------------------------|
-| Agenda Electrónica           | Aplicación en C# para gestionar contactos  |    C#, Windows Forms     |    C#, Windows Forms     |
-| Calculadora Web CI/CD        | HTML, CSS, JS, Node.js, Jest, GitHub Pages | HTML, CSS, JS, Node.js, Jest, GitHub Pages    |    C#, Oracle, .NET      |
-| Optimizador de Precios       | Modelo para e-commerce con IA              | Python, Machine Learning | Python, Machine Learning |
+| Agenda Electrónica           | Aplicación en C# para gestionar contactos  |    C#, Windows Forms     |    https://github.com/jpatryck04/AgendaElectronica.githttps://github.com/jpatryck04/AgendaElectronica.git     |
+| Calculadora Web CI/CD        | Calculadora web con CI/CD usando GitHub Actions| HTML, CSS, JS, Node.js, Jest, GitHub Pages    |   https://github.com/jpatryck04/aplicacion-ci-cd.git |
+| Clasificación de Usuarios para un Programa de Fidelidad  | MSegmentación de usuarios en categorías de fidelidad usando aprendizaje automático para optimizar estrategias de marketing y mejorar la retención. | Python, Machine Learning | https://github.com/jpatryck04/Inteligencia_Artificial.git|
 
 
 🏅 Certificados y Cursos Completados
