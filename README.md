@@ -43,9 +43,9 @@
 
 
   - 📘 **Nombre del curso:** ISTQB Certified Tester Foundation Level (CTFL 4.0)
-  🏫 **Institución:** Udemy, Inc
-  📅 **Fecha:** 30 Abril 2025  
-  📄 [Ver certificado](./certificados/ISTQB%Certified%Tester%Foundation%Level%(CTFL%4.0).pdf)
+  -🏫 **Institución:** Udemy, Inc
+  -📅 **Fecha:** 30 Abril 2025  
+  -📄 [Ver certificado](./certificados/ISTQB%Certified%Tester%Foundation%Level%(CTFL%4.0).pdf)
 
 
 
