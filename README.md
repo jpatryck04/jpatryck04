@@ -15,7 +15,7 @@
 
 📌 Proyectos destacados
 
-| ---------- Proyecto ---------- | -------------------------- Descripción ---------------------------- | ------- Tecnologías ------- | ---------- Repositorios ---------- |
+|  Proyecto |  Descripción  |  Tecnologías  |  Repositorios |
 | ------------------------------ | --------------------------------------------------------------- | -------------------------- | --------------------------------- |
 | **Agenda Electrónica**         | Aplicación en C# para gestionar contactos                        | C#, Windows Forms           | [Ver Proyecto](https://github.com/jpatryck04/AgendaElectronica.git) |
 | **Calculadora Web CI/CD**      | Calculadora web con CI/CD usando GitHub Actions                  | HTML, CSS, JS, Node.js, Jest, GitHub Pages | [Ver Proyecto](https://github.com/jpatryck04/aplicacion-ci-cd.git) |
