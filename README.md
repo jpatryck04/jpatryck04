@@ -15,11 +15,11 @@
 
 📌 Proyectos destacados
 
-|---------- Proyecto ----------|---------------- Descripción --------------|------ Tecnologías -------|
-|------------------------------|-------------------------------------------|--------------------------|
-| Agenda Electrónica           | Aplicación en C# para gestionar contactos |    C#, Windows Forms     |
-| Sistema de Consultas Médicas | Registro de consultas por cita o turno    |    C#, Oracle, .NET      |
-| Optimizador de Precios       | Modelo para e-commerce con IA             | Python, Machine Learning |
+|---------- Proyecto ----------|---------------- Descripción ---------------|------ Tecnologías -------|------ Repositorios -------|
+|------------------------------|--------------------------------------------|--------------------------|--------------------------|
+| Agenda Electrónica           | Aplicación en C# para gestionar contactos  |    C#, Windows Forms     |    C#, Windows Forms     |
+| Calculadora Web CI/CD        | HTML, CSS, JS, Node.js, Jest, GitHub Pages | HTML, CSS, JS, Node.js, Jest, GitHub Pages    |    C#, Oracle, .NET      |
+| Optimizador de Precios       | Modelo para e-commerce con IA              | Python, Machine Learning | Python, Machine Learning |
 
 
 🏅 Certificados y Cursos Completados
