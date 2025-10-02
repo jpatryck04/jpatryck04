@@ -15,11 +15,13 @@
 
 📌 Proyectos destacados
 
-|  Proyecto |  Descripción  |  Tecnologías  |  Repositorios |
-| ------------------------------ | --------------------------------------------------------------- | -------------------------- | --------------------------------- |
-| **Agenda Electrónica**         | Aplicación en C# para gestionar contactos                        | C#, Windows Forms           | [Ver Proyecto](https://github.com/jpatryck04/AgendaElectronica.git) |
-| **Calculadora Web CI/CD**      | Calculadora web con CI/CD usando GitHub Actions                  | HTML, CSS, JS, Node.js, Jest, GitHub Pages | [Ver Proyecto](https://github.com/jpatryck04/aplicacion-ci-cd.git) |
-| **Clasificación de Usuarios para un Programa de Fidelidad** | Segmentación de usuarios con aprendizaje automático para mejorar la retención | Python, Machine Learning    | [Ver Proyecto](https://github.com/jpatryck04/Inteligencia_Artificial.git) |
+| Proyecto | Descripción | Tecnologías | Repositorios |
+| -------- | ----------- | ----------- | ------------ |
+| **Agenda Electrónica** | Aplicación en C# para gestionar contactos | C#, Windows Forms | [Ver Proyecto](https://github.com/jpatryck04/AgendaElectronica.git) |
+| **Calculadora Web CI/CD** | Calculadora web con CI/CD usando GitHub Actions | HTML, CSS, JS, Node.js, Jest, GitHub Pages | [Ver Proyecto](https://github.com/jpatryck04/aplicacion-ci-cd.git) |
+| **Clasificación de Usuarios para un Programa de Fidelidad** | Segmentación de usuarios con aprendizaje automático para mejorar la retención | Python, Machine Learning | [Ver Proyecto](https://github.com/jpatryck04/Inteligencia_Artificial.git) |
+| **Aplicación IONIC + Vue – Tarea 3** | Aplicación móvil con menú que incluye página inicial, sumadora, traductor de números a letras, tabla de multiplicar y video de experiencia personal | IONIC 7, Vue 3, JavaScript, CSS | [Ver Proyecto](https://github.com/jpatryck04/App_Movile_Ionic.git) |
+
 
 
 
