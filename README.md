@@ -37,24 +37,25 @@
  📘 Course Name: Python for Beginners - Learn to Code from Scratch
  🏫 Institution: Udemy, Inc
  📅 Date: March 10, 2025
-  📄 [Ver certificado](./certificados/Certificado%20Udemy%20-%20Python.pdf)
+  📄 [View certificate](./certificados/Certificado%20Udemy%20-%20Python.pdf)
 
 
  📘 Course Name: Introduction to C# Programming from Scratch
  🏫 Institution: Udemy, Inc
  📅 Date: March 13, 2025
  📄 View Certificate
-  📄 [Ver certificado](./certificados/Certificado%20Udemy%20-%20C%23.pdf)
+  📄 [View certificate](./certificados/Certificado%20Udemy%20-%20C%23.pdf)
 
 
  📘 Course Name: ISTQB Certified Tester Foundation Level (CTFL 4.0)
  🏫 Institution: Udemy, Inc
  📅 Date: April 30, 2025
-  📄 [Ver certificado](./certificados/ISTQB%20Certified%20Tester%20Foundation%20Level%20(CTFL%204.0).pdf)
+  📄 [View certificate](./certificados/ISTQB%20Certified%20Tester%20Foundation%20Level%20(CTFL%204.0).pdf)
 
 
 
-
+📄 [View badges]
+(./certificados/insignia.png)
 .
 
 
