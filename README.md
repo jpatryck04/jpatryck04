@@ -52,9 +52,7 @@
  📅 Date: April 30, 2025
   📄 [View certificate](./certificados/ISTQB%20Certified%20Tester%20Foundation%20Level%20(CTFL%204.0).pdf)
 
-
-
-[Badge](./certificados/insignia.png)
+[View Badge](./certificados/insignia.png)
 
 
 
