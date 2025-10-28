@@ -1,11 +1,12 @@
-👋 ¡Hola! Soy Patryck Jiménez
-
-🎓 Estudiante de Desarrollo de Software  
-💻 Apasionado por la programación, la tecnología y el aprendizaje continuo  
-🔐 Interesado en Ciberseguridad, Minería de Datos y Auditoría Informática  
+👋 Hello! I’m Patryck Yandell Jiménez Ogando, I'm 18 years old.
 
 
-🚀 Tecnologías y herramientas que utilizo
+🎓 Software Development Student
+💻 Passionate about programming, technology, and continuous learning
+🔐 Enthusiastic about mobile app development and web development, with a strong interest in continuously expanding my knowledge in the tech field.
+
+
+🚀 Technologies and Tools I Use
 
 ![Lenguajes](https://skillicons.dev/icons?i=cs,java,python,html,css,js,sql,docker,nodejs,react,ts)
 ![Herramientas](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,mysql,oracle,mssql)
@@ -13,41 +14,42 @@
 
 
 
-📌 Proyectos destacados
+📌 Highlighted Projects
 
-| Proyecto | Descripción | Tecnologías | Repositorios |
+| Project | Description | Technologies | Repositories |
 | -------- | ----------- | ----------- | ------------ |
-| **Agenda Electrónica** | Aplicación en C# para gestionar contactos | C#, Windows Forms | [Ver Proyecto](https://github.com/jpatryck04/AgendaElectronica.git) |
-| **Calculadora Web CI/CD** | Calculadora web con CI/CD usando GitHub Actions | HTML, CSS, JS, Node.js, Jest, GitHub Pages | [Ver Proyecto](https://github.com/jpatryck04/aplicacion-ci-cd.git) |
-| **Clasificación de Usuarios para un Programa de Fidelidad** | Segmentación de usuarios con aprendizaje automático para mejorar la retención | Python, Machine Learning | [Ver Proyecto](https://github.com/jpatryck04/Inteligencia_Artificial.git) |
-| **Aplicación IONIC + Vue** | Aplicación móvil con menú que incluye página inicial, sumadora, traductor de números a letras, tabla de multiplicar y video de experiencia personal | IONIC 7, Vue 3, JavaScript, CSS | [Ver Proyecto](https://github.com/jpatryck04/App_Movile_Ionic.git) |
+| **Electronic Agenda** | C# application to manage contacts | C#, Windows Forms | [Ver Proyecto](https://github.com/jpatryck04/AgendaElectronica.git) |
+| **Web Calculator CI/CD** | Web calculator with CI/CD using GitHub Actions | HTML, CSS, JS, Node.js, Jest, GitHub Pages | [Ver Proyecto](https://github.com/jpatryck04/aplicacion-ci-cd.git) |
+| **User Classification for a Loyalty Program** | User segmentation using machine learning to improve retention | Python, Machine Learning | [Ver Proyecto](https://github.com/jpatryck04/Inteligencia_Artificial.git) |
+| **IONIC + Vue Application** | Mobile app with a menu including homepage, adder, number-to-text translator, multiplication table, and personal experience video | IONIC 7, Vue 3, JavaScript, CSS | [Ver Proyecto](https://github.com/jpatryck04/App_Movile_Ionic.git) |
 
 
 
 
-🏅 Certificados y Cursos Completados
+🏅 Completed Certificates and Courses
 
- - 📘 **Nombre del curso:** Curso ITEssentials  
-  🏫 **Institución:** Cisco Networking Academy  
-  📅 **Fecha:** 22 Abril 2024  
+📘 Course Name: ITEssentials
+🏫 Institution: Cisco Networking Academy
+📅 Date: April 22, 2024 
   📄 [Ver certificado](./certificados/ITEssentialsUpdate20250313-28-oua1fi.pdf)
 
 
-  - 📘 **Nombre del curso:** Python para principiantes - Aprende a programar desde 0  
-  🏫 **Institución:** Udemy, Inc
-  📅 **Fecha:** 10 Marzo 2025  
+ 📘 Course Name: Python for Beginners - Learn to Code from Scratch
+ 🏫 Institution: Udemy, Inc
+ 📅 Date: March 10, 2025
   📄 [Ver certificado](./certificados/Certificado%20Udemy%20-%20Python.pdf)
 
 
-   - 📘 **Nombre del curso:** Introducción a la programación con C# desde 0  
-  🏫 **Institución:** Udemy, Inc
-  📅 **Fecha:** 13 Marzo 2025  
+ 📘 Course Name: Introduction to C# Programming from Scratch
+ 🏫 Institution: Udemy, Inc
+ 📅 Date: March 13, 2025
+ 📄 View Certificate
   📄 [Ver certificado](./certificados/Certificado%20Udemy%20-%20C%23.pdf)
 
 
-  - 📘 **Nombre del curso:** ISTQB Certified Tester Foundation Level (CTFL 4.0)  
-  🏫 **Institución:** Udemy, Inc  
-  📅 **Fecha:** 30 Abril 2025  
+ 📘 Course Name: ISTQB Certified Tester Foundation Level (CTFL 4.0)
+ 🏫 Institution: Udemy, Inc
+ 📅 Date: April 30, 2025
   📄 [Ver certificado](./certificados/ISTQB%20Certified%20Tester%20Foundation%20Level%20(CTFL%204.0).pdf)
 
 
@@ -58,12 +60,12 @@
 
 
 
-📈 Estadísticas de GitHub
+📈 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpatryck04&show_icons=true&theme=radical)
 
 
-📫 Contacto
+📫 Contact
 
-📧 Correo: patryckyandelljimenez@gmail.com  
+📧 Email: patryckyandelljimenez@gmail.com  
 💼 LinkedIn: [Patryck Jimenez](http://www.linkedin.com/in/patryck-jim%C3%A9nez)
