@@ -54,9 +54,7 @@
 
 
 
-📄 [View badges]
-(./certificados/insignia.png)
-.
+[Badge](./certificados/insignia.png)
 
 
 
