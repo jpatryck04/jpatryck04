@@ -52,8 +52,8 @@
  📅 Date: April 30, 2025
   📄 [View certificate](./certificados/ISTQB%20Certified%20Tester%20Foundation%20Level%20(CTFL%204.0).pdf)
 
-[View Badge](./certificados/insignia.png)
-[View Badge](./certificados/Professional%20Scrum%20Master%20I.png)
+[View Badge](./certificados/(CTFL).png)
+[View Badge](./certificados/(PSM%20I).png)
 
 
 
