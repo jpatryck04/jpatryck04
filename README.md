@@ -53,7 +53,7 @@
   📄 [View certificate](./certificados/ISTQB%20Certified%20Tester%20Foundation%20Level%20(CTFL%204.0).pdf)
 
 [View Badge](./certificados/insignia.png)
-![Certificado PSM I](certificados/Professional%20Scrum%20Master™%20I%20(PSM%20I).png)
+[View Badge](./certificados/Professional%20Scrum%20Master%20I.png)
 
 
 
