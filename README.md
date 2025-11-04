@@ -53,7 +53,7 @@
   📄 [View certificate](./certificados/ISTQB%20Certified%20Tester%20Foundation%20Level%20(CTFL%204.0).pdf)
 
 [View Badge](./certificados/(CTFL).png)
-[View Badge](./certificados/(PSM%20I).png)
+[View Badge](./certificados/(PSM1).png)
 
 
 
