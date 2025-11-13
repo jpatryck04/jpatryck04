@@ -57,7 +57,7 @@
  📘 Course Name: JavaScript Essencial 1
  🏫 Institution: Cisco Networking Academy
  📅 Date: November 13, 2025 
-  📄 [View certificate](./certificados/ITEssentialsUpdate20250313-28-oua1fi.pdf)
+  📄 [View certificate](./certificados/JavaScriptEssentials.pdf)
   
 
 [View Badge](./certificados/(CTFL).png)
