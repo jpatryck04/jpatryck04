@@ -37,13 +37,12 @@
  📘 Course Name: Introduction to C# Programming from Scratch
  🏫 Institution: Udemy, Inc
  📅 Date: March 13, 2025
- 📄 View Certificate
   📄 [View certificate](./certificados/Certificado%20Udemy%20-%20C%23.pdf)
 
 📘 Course Name: ITEssentials
 🏫 Institution: Cisco Networking Academy
 📅 Date: April 22, 2024 
-  📄 [Ver certificado](./certificados/ITEssentialsUpdate20250313-28-oua1fi.pdf)
+  📄 [View certificate](./certificados/ITEssentialsUpdate20250313-28-oua1fi.pdf)
 
  📘 Course Name: ISTQB Certified Tester Foundation Level (CTFL 4.0)
  🏫 Institution: Udemy, Inc
