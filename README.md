@@ -52,6 +52,11 @@
  📅 Date: April 30, 2025
   📄 [View certificate](./certificados/ISTQB%20Certified%20Tester%20Foundation%20Level%20(CTFL%204.0).pdf)
 
+  📘 Course Name: Get started with Jira
+ 🏫 Institution: Coursera
+ 📅 Date: November 12, 2025
+  📄 [View certificate](/.certificados/certificado%20Jira.pdf)
+
 [View Badge](./certificados/(CTFL).png)
 [View Badge](./certificados/(PSM1).png)
 
