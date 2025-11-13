@@ -39,9 +39,9 @@
  📅 Date: March 13, 2025
   📄 [View certificate](./certificados/Certificado%20Udemy%20-%20C%23.pdf)
 
-📘 Course Name: ITEssentials
-🏫 Institution: Cisco Networking Academy
-📅 Date: April 22, 2024 
+ 📘 Course Name: ITEssentials
+ 🏫 Institution: Cisco Networking Academy
+ 📅 Date: April 22, 2024 
   📄 [View certificate](./certificados/ITEssentialsUpdate20250313-28-oua1fi.pdf)
 
  📘 Course Name: ISTQB Certified Tester Foundation Level (CTFL 4.0)
@@ -49,10 +49,15 @@
  📅 Date: April 30, 2025
   📄 [View certificate](./certificados/ISTQB%20Certified%20Tester%20Foundation%20Level%20(CTFL%204.0).pdf)
 
-  📘 Course Name: Get started with Jira
+ 📘 Course Name: Get started with Jira
  🏫 Institution: Coursera
  📅 Date: November 12, 2025
   📄 [View certificate](./certificados/certificado%20Jira.pdf)
+
+ 📘 Course Name: JavaScript Essencial 1
+ 🏫 Institution: Cisco Networking Academy
+ 📅 Date: November 13, 2025 
+  📄 [View certificate](./certificados/ITEssentialsUpdate20250313-28-oua1fi.pdf)
   
 
 [View Badge](./certificados/(CTFL).png)
