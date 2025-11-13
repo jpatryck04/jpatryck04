@@ -9,7 +9,7 @@
 🚀 Technologies and Tools I Use
 
 ![Lenguajes](https://skillicons.dev/icons?i=cs,java,python,html,css,js,sql,docker,nodejs,react,ts)
-![Herramientas](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,mysql,oracle,mssql)
+![Herramientas](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,mysql,oracle,mssql)
 ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)
 
 
