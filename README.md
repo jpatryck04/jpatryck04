@@ -8,8 +8,8 @@
 
 🚀 Technologies and Tools I Use
 
-![Lenguajes](https://skillicons.dev/icons?i=cs,java,python,html,css,js,sql,docker,nodejs,react,ts)
-![Herramientas](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,mysql,oracle,mssql)
+![Lenguajes](https://skillicons.dev/icons?i=cs,java,python,html,css,js,sql,docker,nodejs,react,ts,nextjs,react)
+![Herramientas](https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,androidstudio,mysql,oracle,mssql,mongodb,supabase,powershell	)
 ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)
 
 
