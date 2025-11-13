@@ -52,7 +52,7 @@
   📘 Course Name: Get started with Jira
  🏫 Institution: Coursera
  📅 Date: November 12, 2025
-  📄 [View certificate](/.certificados/certificado%20Jira.pdf)
+  📄 [View certificate](./certificados/certificado%20Jira.pdf)
   
 
 [View Badge](./certificados/(CTFL).png)
