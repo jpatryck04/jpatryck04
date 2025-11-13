@@ -62,6 +62,7 @@
 
 [View Badge](./certificados/(CTFL).png)
 [View Badge](./certificados/(PSM1).png)
+[View Badge](./certificados/(JSE1).png)
 
 
 
