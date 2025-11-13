@@ -28,12 +28,6 @@
 
 🏅 Completed Certificates and Courses
 
-📘 Course Name: ITEssentials
-🏫 Institution: Cisco Networking Academy
-📅 Date: April 22, 2024 
-  📄 [Ver certificado](./certificados/ITEssentialsUpdate20250313-28-oua1fi.pdf)
-
-
  📘 Course Name: Python for Beginners - Learn to Code from Scratch
  🏫 Institution: Udemy, Inc
  📅 Date: March 10, 2025
@@ -46,6 +40,10 @@
  📄 View Certificate
   📄 [View certificate](./certificados/Certificado%20Udemy%20-%20C%23.pdf)
 
+📘 Course Name: ITEssentials
+🏫 Institution: Cisco Networking Academy
+📅 Date: April 22, 2024 
+  📄 [Ver certificado](./certificados/ITEssentialsUpdate20250313-28-oua1fi.pdf)
 
  📘 Course Name: ISTQB Certified Tester Foundation Level (CTFL 4.0)
  🏫 Institution: Udemy, Inc
@@ -56,6 +54,7 @@
  🏫 Institution: Coursera
  📅 Date: November 12, 2025
   📄 [View certificate](/.certificados/certificado%20Jira.pdf)
+  
 
 [View Badge](./certificados/(CTFL).png)
 [View Badge](./certificados/(PSM1).png)
