@@ -59,11 +59,15 @@
  📅 Date: November 13, 2025 
   📄 [View certificate](./certificados/JavaScriptEssentials.pdf)
   
-| Badge |
-|-------|
-| ![CTFL](./certificados/(CTFL).png) |
-| ![PSM1](./certificados/(PSM1).png) |
-| ![JSE1](./certificados/(JSE1).png) |
+<a href="./certificados/(CTFL).png">
+  <img src="./certificados/(CTFL).png" width="80" />
+</a>
+<a href="./certificados/(PSM1).png">
+  <img src="./certificados/(PSM1).png" width="80" />
+</a>
+<a href="./certificados/(JSE1).png">
+  <img src="./certificados/(JSE1).png" width="80" />
+</a>
 
 
 
