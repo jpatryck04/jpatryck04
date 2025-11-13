@@ -60,13 +60,13 @@
   📄 [View certificate](./certificados/JavaScriptEssentials.pdf)
   
 <a href="./certificados/(CTFL).png">
-  <img src="./certificados/(CTFL).png" width="80" />
+  <img src="./certificados/(CTFL).png" width="100" />
 </a>
 <a href="./certificados/(PSM1).png">
-  <img src="./certificados/(PSM1).png" width="80" />
+  <img src="./certificados/(PSM1).png" width="100" />
 </a>
 <a href="./certificados/(JSE1).png">
-  <img src="./certificados/(JSE1).png" width="80" />
+  <img src="./certificados/(JSE1).png" width="100" />
 </a>
 
 
