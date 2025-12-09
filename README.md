@@ -18,10 +18,12 @@
 
 | Project | Description | Technologies | Repositories |
 | -------- | ----------- | ----------- | ------------ |
-| **Electronic Agenda** | C# application to manage contacts | C#, Windows Forms | [Ver Proyecto](https://github.com/jpatryck04/AgendaElectronica.git) |
-| **Web Calculator CI/CD** | Web calculator with CI/CD using GitHub Actions | HTML, CSS, JS, Node.js, Jest, GitHub Pages | [Ver Proyecto](https://github.com/jpatryck04/aplicacion-ci-cd.git) |
-| **User Classification for a Loyalty Program** | User segmentation using machine learning to improve retention | Python, Machine Learning | [Ver Proyecto](https://github.com/jpatryck04/Inteligencia_Artificial.git) |
-| **IONIC + Vue Application** | Mobile app with a menu including homepage, adder, number-to-text translator, multiplication table, and personal experience video | IONIC 7, Vue 3, JavaScript, CSS | [Ver Proyecto](https://github.com/jpatryck04/App_Movile_Ionic.git) |
+| **EcoVigía RD** | Mobile application for the Ministry of Environment of the Dominican Republic | Vue.js 3, TypeScript, Capacitor, Android | [View Project](https://github.com/jpatryck04/EcoVigia-rd.git) |
+| **Electronic Agenda** | C# application to manage contacts | C#, Windows Forms | [View Project](https://github.com/jpatryck04/AgendaElectronica.git) |
+| **Web Calculator CI/CD** | Web calculator with CI/CD using GitHub Actions | HTML, CSS, JS, Node.js, Jest, GitHub Pages | [View Project](https://github.com/jpatryck04/aplicacion-ci-cd.git) |
+| **User Classification for a Loyalty Program** | User segmentation using machine learning to improve retention | Python, Machine Learning | [View Project](https://github.com/jpatryck04/Inteligencia_Artificial.git) |
+| **IONIC + Vue Application** | Mobile app with a menu including homepage, adder, number-to-text translator, multiplication table, and personal experience video | IONIC 7, Vue 3, JavaScript, CSS | [View Project](https://github.com/jpatryck04/App_Movile_Ionic.git) |
+
 
 
 
