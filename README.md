@@ -60,7 +60,7 @@ Soy **Patryck Yandell Jiménez Ogando**, estudiante de Desarrollo de Software de
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=jpatryck04&theme=tokyonight&no-frame=true&row=1&margin-w=10&column=7" />
+<img src="https://github-trophies.vercel.app/?username=jpatryck04&theme=tokyonight&no-frame=true&row=1&margin-w=10&column=7" />
 
 </div>
 
