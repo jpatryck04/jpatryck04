@@ -383,6 +383,246 @@ https://github.com/jpatryck04/Inteligencia_Artificial
 
 ---
 
+# 🏅 Certifications
+
+<div align="center">
+
+| Certification | Provider | Year | Status |
+|---------------|----------|------|:------:|
+| Python for Beginners | Udemy | 2025 | ✅ |
+| Introduction to C# | Udemy | 2025 | ✅ |
+| ISTQB CTFL 4.0 | Udemy | 2025 | ✅ |
+| IT Essentials | Cisco Networking Academy | 2024 | ✅ |
+| JavaScript Essentials 1 | Cisco Networking Academy | 2025 | ✅ |
+| Get Started with Jira | Coursera | 2025 | ✅ |
+
+</div>
+
+---
+
+# 🌍 Languages
+
+| Language | Proficiency |
+|----------|-------------|
+| 🇪🇸 Spanish | Native |
+| 🇺🇸 English | Professional Working Proficiency |
+
+---
+
+# 💼 Development Workflow
+
+```text
+Requirement
+
+      ↓
+
+Planning
+
+      ↓
+
+Architecture
+
+      ↓
+
+UI / UX
+
+      ↓
+
+Development
+
+      ↓
+
+Testing
+
+      ↓
+
+Deployment
+
+      ↓
+
+Continuous Improvement
+```
+
+---
+
+# 🧠 Core Principles
+
+<div align="center">
+
+| Principle | Description |
+|-----------|-------------|
+| 🧩 Clean Code | Write code that is readable, maintainable and scalable. |
+| 🏗 Architecture First | Think before writing code. |
+| ⚡ Performance | Optimize only when it creates value. |
+| 🔒 Security | Build secure applications by default. |
+| 📚 Continuous Learning | Technology evolves every day. |
+| 🤝 Collaboration | Great software is built by teams. |
+
+</div>
+
+---
+
+# ⚙ My Development Environment
+
+```yaml
+Operating System:
+  Windows 11
+
+Editor:
+  Visual Studio Code
+
+IDE:
+  Visual Studio 2022
+
+Version Control:
+  Git
+  GitHub
+
+API Testing:
+  Postman
+
+Database:
+  SQL Server
+  Oracle
+  MySQL
+  MongoDB
+  Supabase
+
+Terminal:
+  PowerShell
+
+Browser:
+  Microsoft Edge
+  Google Chrome
+
+Design:
+  Figma
+```
+
+---
+
+# 📚 Favorite Technologies
+
+<div align="center">
+
+| ❤️ Favorite | Why |
+|-------------|-----|
+| TypeScript | Safer and more scalable JavaScript |
+| React | Powerful component-based UI |
+| Next.js | Full-stack React framework |
+| Vue | Elegant and developer friendly |
+| C# | Robust backend and desktop development |
+| SQL Server | Enterprise-grade relational database |
+
+</div>
+
+---
+
+# 🚀 Areas of Interest
+
+```text
+✔ Software Engineering
+
+✔ Web Development
+
+✔ Mobile Development
+
+✔ Software Architecture
+
+✔ REST APIs
+
+✔ Cloud Computing
+
+✔ Artificial Intelligence
+
+✔ DevOps
+
+✔ Automation
+
+✔ Open Source
+```
+
+---
+
+# 🖥 My Coding Setup
+
+| Component | Current |
+|-----------|---------|
+| 💻 Laptop | Windows Development Machine |
+| ⌨ Keyboard | Mechanical Keyboard |
+| 🖱 Mouse | Gaming Mouse |
+| 🖥 Monitor | External Display |
+| 🎧 Headphones | Yes |
+| ☕ Coffee | Optional 😄 |
+
+---
+
+# 📖 Currently Reading & Learning
+
+- Clean Architecture
+- Design Patterns
+- SOLID Principles
+- Domain-Driven Design (DDD)
+- REST API Best Practices
+- Docker
+- Kubernetes
+- Azure Fundamentals
+
+---
+
+# 📅 A Typical Day
+
+```text
+☀ Morning
+
+📚 Study
+
+☕
+
+💻 Coding
+
+🍽 Lunch
+
+💼 Projects
+
+📖 Learning
+
+🌙 Review & Planning
+```
+
+---
+
+# 💬 Personal Quote
+
+> "Great software is not only about making things work; it's about making them maintainable, scalable, and valuable."
+
+---
+
+# 🤝 Open to Collaborate On
+
+- Open Source Projects
+
+- Full Stack Applications
+
+- Mobile Applications
+
+- REST APIs
+
+- Student Projects
+
+- Software Engineering Communities
+
+---
+
+# 📌 Fun Facts
+
+- 🚀 I enjoy learning new technologies every week.
+- 🌱 I prefer building real-world applications over tutorial projects.
+- 💡 I believe consistency beats intensity.
+- 📱 Mobile development is one of my favorite areas.
+- ☁️ Cloud computing is my next big learning goal.
+
+---
 # 📊 Contribution Graph
 
 <div align="center">
