@@ -1,125 +1,222 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Patryck%20Jim%C3%A9nez%20Ogando&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Student%20%7C%2018%20a%C3%B1os&descAlignY=55&descSize=18" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:3B82F6,100:06B6D4&text=Patryck%20Jiménez%20Ogando&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20Developer%20•%20Web%20•%20Mobile%20•%20Cloud&descAlignY=56&descSize=18&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Desarrollo+Web+%26+Mobile;Aprendiendo+algo+nuevo+cada+d%C3%ADa;Vue+%2F+React+%2F+TypeScript+%2F+C%23;Construyendo+EcoV%C3%ADgia+RD+%F0%9F%8C%B1" alt="Typing SVG" />
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Software+Developer+from+the+Dominican+Republic;Building+Modern+Web+Applications;Mobile+Development+Enthusiast;Always+Learning+Something+New;Clean+Code+%7C+Scalable+Architecture+%7C+TypeScript" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/patryck-jim%C3%A9nez)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patryckyandelljimenez@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jpatryck04)
+<br><br>
 
-</div>
+<a href="mailto:patryckyandelljimenez@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<a href="https://linkedin.com/in/patryck-jim%C3%A9nez">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 👋 Sobre mí
-
-Soy **Patryck Yandell Jiménez Ogando**, estudiante de Desarrollo de Software de 18 años, con pasión por la programación, la tecnología y el aprendizaje continuo.
-
-- 🔐 Enfocado en desarrollo **móvil** y **web**
-- 🚀 Siempre expandiendo mi stack y probando cosas nuevas
-- 🌱 Actualmente construyendo proyectos reales para instituciones públicas (ver EcoVigía RD abajo)
-
----
-
-## 🛠️ Tecnologías y Herramientas
-
-<div align="center">
-
-**Lenguajes**
-<br/>
-<img src="https://skillicons.dev/icons?i=cs,java,python,html,css,js,ts,sql" />
-
-**Frameworks & Runtime**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,docker" />
-
-**Herramientas & DB**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,androidstudio,mysql,mongodb,supabase,powershell" />
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<a href="https://github.com/jpatryck04">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 📊 Métricas en vivo
+# 👋 Hello, I'm Patryck!
 
-<div align="center">
+I'm a **19-year-old Software Developer** from the **Dominican Republic**, passionate about building modern applications that combine clean architecture, intuitive user experiences, and scalable solutions.
 
-<img height="165em" src="https://github-stats-extended.vercel.app/api?username=jpatryck04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165em" src="https://streak-stats.demolab.com?user=jpatryck04&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jpatryck04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://github-trophies.vercel.app/?username=jpatryck04&theme=tokyonight&no-frame=true&row=1&margin-w=10&column=7" />
-
-</div>
-
-> 💡 Si alguna tarjeta no carga al instante, es normal: los servidores gratuitos hacen caché de hasta 24h. Recarga la página en unos segundos.
+Rather than simply writing code, I enjoy solving real-world problems through software while continuously learning new technologies and development practices.
 
 ---
 
-## 📌 Proyectos destacados
+# 🚀 Current Focus
 
-| Proyecto | Descripción | Tecnologías | Enlace |
-|---|---|---|---|
-| **🌱 EcoVigía RD** | App móvil para el Ministerio de Medio Ambiente de RD | Vue.js 3, TypeScript, Capacitor, Android | [Ver repo](https://github.com/jpatryck04/EcoVigia-rd) |
-| **📇 Agenda Electrónica** | App de escritorio para gestión de contactos | C#, Windows Forms | [Ver repo](https://github.com/jpatryck04/AgendaElectronica) |
-| **🧮 Web Calculator CI/CD** | Calculadora web con pipeline CI/CD automatizado | HTML, CSS, JS, Node.js, Jest, GitHub Actions | [Ver repo](https://github.com/jpatryck04/aplicacion-ci-cd) |
-| **🤖 Clasificación de Usuarios** | Segmentación de usuarios con ML para un programa de fidelidad | Python, Machine Learning | [Ver repo](https://github.com/jpatryck04/Inteligencia_Artificial) |
-| **📱 App Ionic + Vue** | App móvil con calculadora, traductor numérico y tabla de multiplicar | Ionic 7, Vue 3, JavaScript, CSS | [Ver repo](https://github.com/jpatryck04/App_Movile_Ionic) |
+```text
+💼 Building real-world software projects
 
----
+🌱 Expanding my expertise in
 
-## 🏅 Certificaciones
+• TypeScript
+• React
+• Next.js
+• Node.js
+• .NET
+• Cloud Computing
 
-<table>
-<tr>
-<td width="50%">
+📱 Interested in
 
-**Python for Beginners**
-Udemy · Marzo 2025
-
-**Introducción a C#**
-Udemy · Marzo 2025
-
-**IT Essentials**
-Cisco Networking Academy · Abril 2024
-
-</td>
-<td width="50%">
-
-**ISTQB CTFL 4.0**
-Udemy · Abril 2025
-
-**Get Started with Jira**
-Coursera · Noviembre 2025
-
-**JavaScript Essentials 1**
-Cisco Networking Academy · Noviembre 2025
-
-</td>
-</tr>
-</table>
+• Web Development
+• Mobile Development
+• Software Architecture
+• DevOps
+• Artificial Intelligence
+```
 
 ---
 
-<div align="center">
+# 🎓 Education
 
-### 📫 Contacto
+## 🎓 Instituto Tecnológico de Las Américas (ITLA)
 
-[![Email](https://img.shields.io/badge/patryckyandelljimenez%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:patryckyandelljimenez@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Patryck%20Jim%C3%A9nez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/patryck-jim%C3%A9nez)
+**Software Development Technologist**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=100&section=footer" width="100%"/>
+📅 2023 — 2025
 
-</div>
+✅ Graduated
+
+Focused on:
+
+- Software Engineering
+- Object-Oriented Programming
+- Databases
+- Web Development
+- Mobile Development
+- Software Testing
+- System Analysis
+
+---
+
+## 🎓 Universidad del Caribe (UNICARIBE)
+
+**Bachelor's Degree in Software Engineering**
+
+📅 2025 — Present
+
+Currently pursuing my Software Engineering degree while continuing to develop production-ready applications and expanding my knowledge in software architecture, cloud technologies, and scalable systems.
+
+---
+
+# 💡 About Me
+
+```yaml
+Name: Patryck Jiménez Ogando
+
+Country: Dominican Republic 🇩🇴
+
+Age: 19
+
+Role: Software Developer
+
+Languages:
+  - Spanish (Native)
+  - English (Professional)
+
+Passionate About:
+  - Web Development
+  - Mobile Development
+  - Software Architecture
+  - Cloud Technologies
+  - Artificial Intelligence
+
+Currently Learning:
+  - Next.js
+  - .NET
+  - Docker
+  - PostgreSQL
+  - Azure
+
+Open To:
+  - Internships
+  - Freelance Projects
+  - Open Source
+  - Collaboration
+```
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,cs,java,python,html,css,sql"/>
+
+</p>
+
+---
+
+## ⚙ Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite"/>
+
+</p>
+
+---
+
+## 🔥 Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet"/>
+
+</p>
+
+---
+
+## 📱 Mobile
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=androidstudio,vue"/>
+
+<p align="center">
+
+Capacitor • Ionic
+
+</p>
+
+</p>
+
+---
+
+## 🗄 Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+</p>
+
+---
+
+## ☁ DevOps & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode,visualstudio,powershell"/>
+
+</p>
+
+---
+
+# 🌟 What I Enjoy Building
+
+- Modern Web Applications
+
+- Mobile Applications
+
+- REST APIs
+
+- Enterprise Software
+
+- Clean Architecture
+
+- Automation
+
+- Scalable Systems
+
+- Open Source Projects
+
+---
