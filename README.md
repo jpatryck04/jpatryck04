@@ -220,3 +220,254 @@ Capacitor • Ionic
 - Open Source Projects
 
 ---
+# 🚀 Featured Projects
+
+> Real-world projects that showcase my learning journey and passion for software development.
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌱 EcoVigía RD
+
+Mobile application developed for the **Ministry of Environment of the Dominican Republic**.
+
+### Highlights
+
+- 📱 Cross-platform mobile application
+- 🌿 Environmental incident reporting
+- 📍 Geolocation support
+- 📷 Camera integration
+- 🔒 Authentication
+- ☁️ REST API integration
+
+### Tech Stack
+
+![Vue](https://img.shields.io/badge/Vue-42B883?style=flat-square&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
+
+🔗 **Repository**
+
+https://github.com/jpatryck04/EcoVigia-rd
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📇 Electronic Agenda
+
+Desktop application developed in C#.
+
+### Features
+
+- Contact Management
+- CRUD Operations
+- Search
+- Data Validation
+- Windows Forms UI
+
+### Tech Stack
+
+![C#](https://img.shields.io/badge/CSharp-68217A?style=flat-square&logo=csharp&logoColor=white)
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+🔗 **Repository**
+
+https://github.com/jpatryck04/AgendaElectronica
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🧮 CI/CD Calculator
+
+Simple calculator with automated deployment pipeline.
+
+### Features
+
+- Unit Testing
+- GitHub Actions
+- Continuous Integration
+- Responsive UI
+
+### Tech
+
+HTML
+
+CSS
+
+JavaScript
+
+Node.js
+
+Jest
+
+GitHub Actions
+
+🔗
+
+https://github.com/jpatryck04/aplicacion-ci-cd
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 User Classification ML
+
+Machine Learning project focused on customer segmentation.
+
+### Features
+
+- Data Analysis
+- Model Training
+- Prediction
+- Classification
+
+### Tech
+
+Python
+
+Machine Learning
+
+Pandas
+
+Scikit-Learn
+
+🔗
+
+https://github.com/jpatryck04/Inteligencia_Artificial
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jpatryck04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=jpatryck04&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpatryck04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jpatryck04&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jpatryck04&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# ⚡ Development Philosophy
+
+```text
+Write less.
+Build better.
+
+Think before coding.
+
+Readable code beats clever code.
+
+Consistency creates quality.
+
+Automation saves time.
+
+Architecture matters.
+
+Learning never stops.
+```
+
+---
+
+# 🎯 2026 Goals
+
+| Goal | Status |
+|------|:------:|
+| Graduate from ITLA | ✅ |
+| Continue Software Engineering Degree | 🚀 |
+| Build Production Applications | 🚀 |
+| Improve .NET Skills | 🚀 |
+| Learn Cloud Computing | 🚀 |
+| Contribute to Open Source | ⏳ |
+| Obtain Azure Certification | ⏳ |
+| Master Next.js | 🚀 |
+| Learn Kubernetes | ⏳ |
+| Build SaaS Products | ⏳ |
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+| Technology | Progress |
+|------------|----------|
+| TypeScript | ██████████ 100% |
+| React | █████████░ 90% |
+| Next.js | ████████░░ 80% |
+| Node.js | ████████░░ 80% |
+| .NET | ██████░░░░ 60% |
+| PostgreSQL | ██████░░░░ 60% |
+| Docker | ███████░░░ 70% |
+| Azure | ███░░░░░░░ 35% |
+
+</div>
+
+---
+
+# 💼 Experience Highlights
+
+✔ Developed real-world software projects
+
+✔ Experience building Web Applications
+
+✔ Mobile Application Development
+
+✔ REST API Integration
+
+✔ SQL Database Design
+
+✔ Version Control with Git & GitHub
+
+✔ Agile Development Practices
+
+✔ Responsive UI Design
+
+✔ Continuous Learning Mindset
+
+---
