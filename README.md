@@ -252,6 +252,8 @@ open_to:
   - Collaborative open source projects
   - Networking with tech professionals
 
+```
+
 📫 Connect With Me
 <p align="center"> <a href="mailto:patryckyandelljimenez@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="http://www.linkedin.com/in/patryck-jim%C3%A9nez"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/jpatryck04"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p>
-<p align="center"> <strong><i>"The future belongs to those who learn more skills and combine them in creative ways."</i></strong> </p><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" width="100%"/> </p> ```
+<p align="center"> <strong><i>"The future belongs to those who learn more skills and combine them in creative ways."</i></strong> </p><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" width="100%"/> </p> 
