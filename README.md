@@ -22,8 +22,6 @@
   <img src="https://img.shields.io/badge/Location-Dominican%20Republic-7C3AED?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/Age-18%20years-7C3AED?style=flat-square&logo=person&logoColor=white" alt="Age"/>
   <img src="https://komarev.com/ghpvc/?username=jpatryck04&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Followers-50-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Stars-15-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Stars"/>
 </p>
 
 <p align="center">
@@ -191,15 +189,18 @@
 ## 📊 GitHub Analytics
 
 <h3 align="center">📈 Contribution Overview</h3>
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jpatryck04&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C4C4C4&count_private=true" alt="GitHub Stats"/>
+  <!-- Contribution Stats - Datos reales de contribución -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jpatryck04&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C4C4C4&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jpatryck04&theme=midnight-purple&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=C4C4C4&sideNums=C4C4C4&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=C4C4C4" alt="GitHub Streak"/>
 </p>
 
-<h3 align="center">📊 GitHub Stats & Languages</h3>
+<h3 align="center">📊 Languages & Activity</h3>
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpatryck04&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4C4C4&count_private=true" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jpatryck04&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4C4C4&layout=compact" alt="WakaTime Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpatryck04&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4C4C4&count_private=true&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jpatryck04&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4C4C4&layout=compact&langs_count=6" alt="WakaTime Stats"/>
 </p>
 
 ---
@@ -215,7 +216,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jpatryck04&theme=react-dark&bg_color=0D1117&hide_border=true&color=8B5CF6&line=8B5CF6&point=7C3AED&area=true&area_color=8B5CF6" alt="Contribution Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jpatryck04&theme=react-dark&bg_color=0D1117&hide_border=true&color=8B5CF6&line=8B5CF6&point=7C3AED&area=true&area_color=8B5CF6&custom_title=Patryck%20Yandell%20Jimenez%20Ogando%27s%20Contribution%20Graph" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -251,9 +252,6 @@ open_to:
   - Internships and entry-level positions
   - Collaborative open source projects
   - Networking with tech professionals
-
-```
-
 📫 Connect With Me
 <p align="center"> <a href="mailto:patryckyandelljimenez@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="http://www.linkedin.com/in/patryck-jim%C3%A9nez"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/jpatryck04"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p>
-<p align="center"> <strong><i>"The future belongs to those who learn more skills and combine them in creative ways."</i></strong> </p><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" width="100%"/> </p> 
+<p align="center"> <strong><i>"The future belongs to those who learn more skills and combine them in creative ways."</i></strong> </p><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" width="100%"/> </p> ```
