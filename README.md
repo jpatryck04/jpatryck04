@@ -236,3 +236,8 @@ open_to:
   - Internships and entry-level positions
   - Collaborative open source projects
   - Networking with tech professionals
+
+<p align="center"> <a href="mailto:patryckyandelljimenez@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="http://www.linkedin.com/in/patryck-jim%C3%A9nez"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/jpatryck04"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p>
+
+
+```
