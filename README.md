@@ -1,77 +1,95 @@
-👋 Hello! I’m Patryck Yandell Jiménez Ogando, I'm 19 years old.
+<div align="center">
 
+# 👋 ¡Hola! Soy Patryck Yandell Jiménez Ogando
 
-🎓 Software Development 
-💻 Passionate about programming, technology, and continuous learning
-🔐 Enthusiastic about mobile app development and web development, with a strong interest in continuously expanding my knowledge in the tech field.
+### 🎓 Desarrollo de Software | 💻 Apasionado por la tecnología y el aprendizaje continuo
 
+  
+<p align="center">
+  <a href="mailto:patryckyandelljimenez@gmail.com">
+    <img src="https://img.shields.io/badge/Email-patryckyandelljimenez%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="http://www.linkedin.com/in/patryck-jim%C3%A9nez">
+    <img src="https://img.shields.io/badge/LinkedIn-Patryck%20Jiménez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/jpatryck04">
+    <img src="https://img.shields.io/badge/GitHub-jpatryck04-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-🚀 Technologies and Tools I Use
+---
 
-![Lenguajes](https://skillicons.dev/icons?i=cs,java,python,html,css,js,sql,docker,nodejs,react,ts,nextjs,react)
-![Herramientas](https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,androidstudio,mysql,oracle,mssql,mongodb,supabase,powershell	)
-![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)
+<p align="center">
+  🔐 Entusiasta del desarrollo web y móvil, enfocado en expandir constantemente mis conocimientos técnicos y construir soluciones funcionales.
+</p>
 
+</div>
 
+<br />
 
-📌 Highlighted Projects
+## 🚀 Tecnologías y Herramientas
 
-| Project | Description | Technologies | Repositories |
-| -------- | ----------- | ----------- | ------------ |
-| **EcoVigía RD** | Mobile application for the Ministry of Environment of the Dominican Republic | Vue.js 3, TypeScript, Capacitor, Android | [View Project](https://github.com/jpatryck04/EcoVigia-rd.git) |
-| **Electronic Agenda** | C# application to manage contacts | C#, Windows Forms | [View Project](https://github.com/jpatryck04/AgendaElectronica.git) |
-| **Web Calculator CI/CD** | Web calculator with CI/CD using GitHub Actions | HTML, CSS, JS, Node.js, Jest, GitHub Pages | [View Project](https://github.com/jpatryck04/aplicacion-ci-cd.git) |
-| **User Classification for a Loyalty Program** | User segmentation using machine learning to improve retention | Python, Machine Learning | [View Project](https://github.com/jpatryck04/Inteligencia_Artificial.git) |
-| **IONIC + Vue Application** | Mobile app with a menu including homepage, adder, number-to-text translator, multiplication table, and personal experience video | IONIC 7, Vue 3, JavaScript, CSS | [View Project](https://github.com/jpatryck04/App_Movile_Ionic.git) |
+<p align="center">
+  <strong>Lenguajes y Frameworks</strong><br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,java,python,html,css,js,ts,nodejs,react,nextjs,vue,tailwind" alt="Lenguajes" />
+  </a>
+</p>
 
+<p align="center">
+  <strong>Herramientas y Base de Datos</strong><br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,mysql,oracle,postgres,mongodb,supabase,vscode,visualstudio,androidstudio" alt="Herramientas" />
+  </a>
+</p>
 
+---
 
+## 📌 Proyectos Destacados
 
+| Proyecto | Descripción | Tecnologías | Enlace |
+| :--- | :--- | :--- | :---: |
+| **EcoVigía RD** | Aplicación móvil para el Ministerio de Medio Ambiente de la República Dominicana | `Vue.js 3` `TypeScript` `Capacitor` `Android` | [Ver Proyecto](https://github.com/jpatryck04/EcoVigia-rd.git) |
+| **Electronic Agenda** | Aplicación en C# para la gestión de contactos | `C#` `.NET` `Windows Forms` | [Ver Proyecto](https://github.com/jpatryck04/AgendaElectronica.git) |
+| **Web Calculator CI/CD** | Calculadora web integrada con flujo CI/CD mediante GitHub Actions | `HTML` `CSS` `JS` `Node.js` `Jest` | [Ver Proyecto](https://github.com/jpatryck04/aplicacion-ci-cd.git) |
+| **User Classification** | Segmentación de usuarios mediante machine learning para programas de fidelización | `Python` `Machine Learning` | [Ver Proyecto](https://github.com/jpatryck04/Inteligencia_Artificial.git) |
+| **IONIC + Vue App** | App móvil interactiva con calculadora, traductor de números a texto y tabla de multiplicar | `Ionic 7` `Vue 3` `JavaScript` | [Ver Proyecto](https://github.com/jpatryck04/App_Movile_Ionic.git) |
 
-🏅 Completed Certificates and Courses
+---
 
- 📘 Course Name: Python for Beginners - Learn to Code from Scratch
- 🏫 Institution: Udemy, Inc
- 📅 Date: March 10, 2025
-  📄 [View certificate](./certificados/Certificado%20Udemy%20-%20Python.pdf)
+## 🏅 Certificaciones y Cursos
 
+<details>
+<summary><strong>📚 Ver lista detallada de certificados</strong></summary>
 
- 📘 Course Name: Introduction to C# Programming from Scratch
- 🏫 Institution: Udemy, Inc
- 📅 Date: March 13, 2025
-  📄 [View certificate](./certificados/Certificado%20Udemy%20-%20C%23.pdf)
+<br />
 
- 📘 Course Name: ITEssentials
- 🏫 Institution: Cisco Networking Academy
- 📅 Date: April 22, 2024 
-  📄 [View certificate](./certificados/ITEssentialsUpdate20250313-28-oua1fi.pdf)
+* **Python for Beginners - Learn to Code from Scratch** — *Udemy, Inc* (Marzo 2025)
+  * 📄 [Ver certificado](./certificados/Certificado%20Udemy%20-%20Python.pdf)
+* **Introduction to C# Programming from Scratch** — *Udemy, Inc* (Marzo 2025)
+  * 📄 [Ver certificado](./certificados/Certificado%20Udemy%20-%20C%23.pdf)
+* **IT Essentials** — *Cisco Networking Academy* (Abril 2024)
+  * 📄 [Ver certificado](./certificados/ITEssentialsUpdate20250313-28-oua1fi.pdf)
+* **ISTQB Certified Tester Foundation Level (CTFL 4.0)** — *Udemy, Inc* (Abril 2025)
+  * 📄 [Ver certificado](./certificados/ISTQB%20Certified%20Tester%20Foundation%20Level%20(CTFL%204.0).pdf)
+* **Get started with Jira** — *Coursera* (Noviembre 2025)
+  * 📄 [Ver certificado](./certificados/certificado%20Jira.pdf)
+* **JavaScript Essentials 1** — *Cisco Networking Academy* (Noviembre 2025)
+  * 📄 [Ver certificado](./certificados/JavaScriptEssentials.pdf)
 
- 📘 Course Name: ISTQB Certified Tester Foundation Level (CTFL 4.0)
- 🏫 Institution: Udemy, Inc
- 📅 Date: April 30, 2025
-  📄 [View certificate](./certificados/ISTQB%20Certified%20Tester%20Foundation%20Level%20(CTFL%204.0).pdf)
+</details>
 
- 📘 Course Name: Get started with Jira
- 🏫 Institution: Coursera
- 📅 Date: November 12, 2025
-  📄 [View certificate](./certificados/certificado%20Jira.pdf)
+<br />
 
- 📘 Course Name: JavaScript Essencial 1
- 🏫 Institution: Cisco Networking Academy
- 📅 Date: November 13, 2025 
-  📄 [View certificate](./certificados/JavaScriptEssentials.pdf)
+<p align="center">
+  <a href="./certificados/(CTFL).png"><img src="./certificados/(CTFL).png" width="110" alt="CTFL Badge" /></a> &nbsp;&nbsp;
+  <a href="./certificados/(PSM1).png"><img src="./certificados/(PSM1).png" width="110" alt="PSM1 Badge" /></a> &nbsp;&nbsp;
+  <a href="./certificados/(JSE1).png"><img src="./certificados/(JSE1).png" width="110" alt="JSE1 Badge" /></a>
+</p>
 
-<a href="./certificados/(CTFL).png">
-  <img src="./certificados/(CTFL).png" width="120" />
-</a>
-<a href="./certificados/(PSM1).png">
-  <img src="./certificados/(PSM1).png" width="120" />
-</a>
-<a href="./certificados/(JSE1).png">
-  <img src="./certificados/(JSE1).png" width="120" />
-</a>
+---
 
-<h2 align="left">📈 GitHub Statistics</h2>
+## 📈 GitHub Statistics
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jpatryck04&label=Profile+Views&color=007ec6&style=flat-square" alt="Visitors" />
@@ -85,8 +103,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpatryck04&theme=radical" width="97%" alt="GitHub Streak" />
 </p>
-
-📫 Contact
-
-📧 Email: patryckyandelljimenez@gmail.com  
-💼 LinkedIn: [Patryck Jimenez](http://www.linkedin.com/in/patryck-jim%C3%A9nez)
