@@ -61,11 +61,6 @@
  📅 Date: November 13, 2025 
   📄 [View certificate](./certificados/JavaScriptEssentials.pdf)
 
-  📘 Course Name: AWS Data Lakehouse Demonstrated
- 🏫 Institution: Amazon Web Services Training and Certification
- 📅 Date: September 3, 2026
-  📄 Credential ID: 42dca66c-72af-4fea-abd9-2b4d4d617531
-   
 <a href="./certificados/(CTFL).png">
   <img src="./certificados/(CTFL).png" width="120" />
 </a>
@@ -82,8 +77,10 @@
 
 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpatryck04&show_icons=true&theme=radical)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jpatryck04&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpatryck04&layout=compact&theme=radical&hide=html,css" alt="Top Languages" width="48%" />
+</div>
 
 📫 Contact
 
