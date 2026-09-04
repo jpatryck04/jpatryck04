@@ -56,25 +56,14 @@
 
 ## 🏅 Certificaciones y Cursos
 
-<details>
-<summary><strong>📚 Ver lista detallada de certificados (haz clic para desplegar)</strong></summary>
-
-<br />
-
-* **Python for Beginners - Learn to Code from Scratch** — *Udemy, Inc* (Marzo 2025)
-  * 📄 [Ver certificado](./certificados/Certificado%20Udemy%20-%20Python.pdf)
-* **Introduction to C# Programming from Scratch** — *Udemy, Inc* (Marzo 2025)
-  * 📄 [Ver certificado](./certificados/Certificado%20Udemy%20-%20C%23.pdf)
-* **IT Essentials** — *Cisco Networking Academy* (Abril 2024)
-  * 📄 [Ver certificado](./certificados/ITEssentialsUpdate20250313-28-oua1fi.pdf)
-* **ISTQB Certified Tester Foundation Level (CTFL 4.0)** — *Udemy, Inc* (Abril 2025)
-  * 📄 [Ver certificado](./certificados/ISTQB%20Certified%20Tester%20Foundation%20Level%20(CTFL%204.0).pdf)
-* **Get started with Jira** — *Coursera* (Noviembre 2025)
-  * 📄 [Ver certificado](./certificados/certificado%20Jira.pdf)
-* **JavaScript Essentials 1** — *Cisco Networking Academy* (Noviembre 2025)
-  * 📄 [Ver certificado](./certificados/JavaScriptEssentials.pdf)
-
-</details>
+| Certificación / Curso | Institución | Fecha | Credencial |
+| :--- | :--- | :---: | :---: |
+| **Python for Beginners - Learn to Code from Scratch** | `Udemy` | Mar 2025 | [📄 Ver](./certificados/Certificado%20Udemy%20-%20Python.pdf) |
+| **Introduction to C# Programming from Scratch** | `Udemy` | Mar 2025 | [📄 Ver](./certificados/Certificado%20Udemy%20-%20C%23.pdf) |
+| **IT Essentials** | `Cisco Networking Academy` | Abr 2024 | [📄 Ver](./certificados/ITEssentialsUpdate20250313-28-oua1fi.pdf) |
+| **ISTQB Certified Tester Foundation Level (CTFL 4.0)** | `Udemy` | Abr 2025 | [📄 Ver](./certificados/ISTQB%20Certified%20Tester%20Foundation%20Level%20(CTFL%204.0).pdf) |
+| **Get started with Jira** | `Coursera` | Nov 2025 | [📄 Ver](./certificados/certificado%20Jira.pdf) |
+| **JavaScript Essentials 1** | `Cisco Networking Academy` | Nov 2025 | [📄 Ver](./certificados/JavaScriptEssentials.pdf) |
 
 <br />
 
