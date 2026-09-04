@@ -78,6 +78,7 @@
 📈 GitHub Statistics
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jpatryck04&theme=radical)
+[![Ashutosh's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=jpatryck04&theme=react-dark)](https://github.com/jpatryck04)
 
 📫 Contact
 
