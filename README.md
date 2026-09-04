@@ -71,7 +71,6 @@
   <img src="./certificados/(JSE1).png" width="120" />
 </a>
 
-
 <h2 align="left">📈 GitHub Statistics</h2>
 
 <p align="center">
@@ -79,8 +78,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpatryck04&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpatryck04&layout=compact&theme=radical" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jpatryck04&show_icons=true&theme=radical&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jpatryck04&layout=compact&theme=radical" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
