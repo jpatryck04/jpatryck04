@@ -60,7 +60,12 @@
  🏫 Institution: Cisco Networking Academy
  📅 Date: November 13, 2025 
   📄 [View certificate](./certificados/JavaScriptEssentials.pdf)
-  
+
+  📘 Course Name: AWS Data Lakehouse Demonstrated
+ 🏫 Institution: Amazon Web Services Training and Certification
+ 📅 Date: September 3, 2026
+  📄 Credential ID: 42dca66c-72af-4fea-abd9-2b4d4d617531
+   
 <a href="./certificados/(CTFL).png">
   <img src="./certificados/(CTFL).png" width="120" />
 </a>
