@@ -72,30 +72,20 @@
 </a>
 
 
-
-
-## 📈 GitHub Statistics
+<h2 align="left">📈 GitHub Statistics</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jpatryck04&label=Profile+Views&color=007ec6&style=flat-square" alt="Visitors" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpatryck04&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpatryck04&layout=compact&theme=radical" width="49%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jpatryck04&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpatryck04&layout=compact&theme=radical" width="48%" alt="Top Languages" />
+</p>
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpatryck04&theme=radical" width="98%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jpatryck04&theme=react-dark" width="98%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpatryck04&theme=radical" width="97%" alt="GitHub Streak" />
+</p>
 
 📫 Contact
 
