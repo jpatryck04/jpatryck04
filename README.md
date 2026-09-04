@@ -78,8 +78,7 @@
 📈 GitHub Statistics
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jpatryck04&theme=radical)
-[![Ashutosh's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=jpatryck04&theme=react-dark)](https://github.com/jpatryck04)
-
+![Visitors](https://komarev.com/ghpvc/?username=jpatryck04&color=007ec6&style=flat-square)
 📫 Contact
 
 📧 Email: patryckyandelljimenez@gmail.com  
