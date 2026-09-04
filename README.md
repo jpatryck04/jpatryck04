@@ -70,7 +70,9 @@
 <p align="center">
   <a href="./certificados/(CTFL).png"><img src="./certificados/(CTFL).png" width="110" alt="CTFL Badge" /></a> &nbsp;&nbsp;
   <a href="./certificados/(PSM1).png"><img src="./certificados/(PSM1).png" width="110" alt="PSM1 Badge" /></a> &nbsp;&nbsp;
-  <a href="./certificados/(JSE1).png"><img src="./certificados/(JSE1).png" width="110" alt="JSE1 Badge" /></a>
+  <a href="./certificados/(JSE1).png"><img src="./certificados/(JSE1).png" width="110" alt="JSE1 Badge" /></a> &nbsp;&nbsp;
+  <a href="./certificados/AWS-DLD.png"><img src="./certificados/AWS-DLD.png" width="110" alt="AWS-DLD Badge" /></a> &nbsp;&nbsp;
+  
 </p>
 
 ---
