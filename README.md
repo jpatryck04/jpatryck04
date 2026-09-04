@@ -2,30 +2,27 @@
 
 # 👋 ¡Hola! Soy Patryck Yandell Jiménez Ogando
 
-### 🎓 Desarrollo de Software | 💻 Apasionado por la tecnología y el aprendizaje continuo
+### 🎓 Desarrollo de Software | 💻 Apasionado por la tecnología
 
-  
 <p align="center">
   <a href="mailto:patryckyandelljimenez@gmail.com">
-    <img src="https://img.shields.io/badge/Email-patryckyandelljimenez%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-181717?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
+  &nbsp;
   <a href="http://www.linkedin.com/in/patryck-jim%C3%A9nez">
-    <img src="https://img.shields.io/badge/LinkedIn-Patryck%20Jiménez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://github.com/jpatryck04">
-    <img src="https://img.shields.io/badge/GitHub-jpatryck04-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
----
-
-<p align="center">
-  🔐 Entusiasta del desarrollo web y móvil, enfocado en expandir constantemente mis conocimientos técnicos y construir soluciones funcionales.
-</p>
+🔐 *Entusiasta del desarrollo web y móvil, enfocado en expandir constantemente mis conocimientos técnicos y construir soluciones funcionales.*
 
 </div>
 
-<br />
+---
 
 ## 🚀 Tecnologías y Herramientas
 
@@ -37,7 +34,7 @@
 </p>
 
 <p align="center">
-  <strong>Herramientas y Base de Datos</strong><br />
+  <strong>Herramientas y Bases de Datos</strong><br />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,mysql,oracle,postgres,mongodb,supabase,vscode,visualstudio,androidstudio" alt="Herramientas" />
   </a>
@@ -47,20 +44,20 @@
 
 ## 📌 Proyectos Destacados
 
-| Proyecto | Descripción | Tecnologías | Enlace |
+| Proyecto | Descripción | Tecnologías | Repositorio |
 | :--- | :--- | :--- | :---: |
-| **EcoVigía RD** | Aplicación móvil para el Ministerio de Medio Ambiente de la República Dominicana | `Vue.js 3` `TypeScript` `Capacitor` `Android` | [Ver Proyecto](https://github.com/jpatryck04/EcoVigia-rd.git) |
-| **Electronic Agenda** | Aplicación en C# para la gestión de contactos | `C#` `.NET` `Windows Forms` | [Ver Proyecto](https://github.com/jpatryck04/AgendaElectronica.git) |
-| **Web Calculator CI/CD** | Calculadora web integrada con flujo CI/CD mediante GitHub Actions | `HTML` `CSS` `JS` `Node.js` `Jest` | [Ver Proyecto](https://github.com/jpatryck04/aplicacion-ci-cd.git) |
-| **User Classification** | Segmentación de usuarios mediante machine learning para programas de fidelización | `Python` `Machine Learning` | [Ver Proyecto](https://github.com/jpatryck04/Inteligencia_Artificial.git) |
-| **IONIC + Vue App** | App móvil interactiva con calculadora, traductor de números a texto y tabla de multiplicar | `Ionic 7` `Vue 3` `JavaScript` | [Ver Proyecto](https://github.com/jpatryck04/App_Movile_Ionic.git) |
+| **EcoVigía RD** | Aplicación móvil para el Ministerio de Medio Ambiente | `Vue.js 3` `TypeScript` `Capacitor` `Android` | [Ver Proyecto](https://github.com/jpatryck04/EcoVigia-rd.git) |
+| **Electronic Agenda** | Aplicación en C# para gestión de contactos | `C#` `.NET` `Windows Forms` | [Ver Proyecto](https://github.com/jpatryck04/AgendaElectronica.git) |
+| **Web Calculator CI/CD** | Calculadora web con integración de GitHub Actions | `HTML` `CSS` `JS` `Node.js` `Jest` | [Ver Proyecto](https://github.com/jpatryck04/aplicacion-ci-cd.git) |
+| **User Classification** | Segmentación de usuarios mediante machine learning | `Python` `Machine Learning` | [Ver Proyecto](https://github.com/jpatryck04/Inteligencia_Artificial.git) |
+| **IONIC + Vue App** | App móvil interactiva con herramientas diversas | `Ionic 7` `Vue 3` `JavaScript` | [Ver Proyecto](https://github.com/jpatryck04/App_Movile_Ionic.git) |
 
 ---
 
 ## 🏅 Certificaciones y Cursos
 
 <details>
-<summary><strong>📚 Ver lista detallada de certificados</strong></summary>
+<summary><strong>📚 Ver lista detallada de certificados (haz clic para desplegar)</strong></summary>
 
 <br />
 
@@ -89,7 +86,7 @@
 
 ---
 
-## 📈 GitHub Statistics
+<h2 align="left">📈 GitHub Statistics</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jpatryck04&label=Profile+Views&color=007ec6&style=flat-square" alt="Visitors" />
