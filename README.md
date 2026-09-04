@@ -66,11 +66,11 @@
 | **JavaScript Essentials 1** | `Cisco Networking Academy` | Nov 2025 | [📄 Ver](./certificados/JavaScriptEssentials.pdf) |
 
 <br />
-
 <p align="center">
   <a href="https://www.credly.com/badges/42dca66c-72af-4fea-abd9-2b4d4d617531/public_url" target="_blank">
-    <img src="https://images.credly.com/images/42dca66c-72af-4fea-abd9-2b4d4d617531/twitter_share_badge.png" width="110" alt="AWS Badge" />
+    <img src="./certificados/AWS-DLD.png" width="110" alt="AWS DLD Badge" />
   </a>
+  
   &nbsp;&nbsp;
   <a href="./certificados/(CTFL).png"><img src="./certificados/(CTFL).png" width="110" alt="CTFL Badge" /></a> &nbsp;&nbsp;
   <a href="./certificados/(PSM1).png"><img src="./certificados/(PSM1).png" width="110" alt="PSM1 Badge" /></a> &nbsp;&nbsp;
