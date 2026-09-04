@@ -122,3 +122,31 @@
 ---
 
 ## 🎯 Enfoque Actual
+
+🔭  Desarrollando aplicaciones web y soluciones empresariales
+🌱  Profundizando en .NET y arquitectura de software
+⚙️  Explorando DevOps, CI/CD y automatización de procesos
+🧪  Fortaleciendo conocimientos en testing, QA e integración continua
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jpatryck04&label=Profile+Views&color=007ec6&style=flat-square" alt="Visitors" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jpatryck04&show_icons=true&theme=radical&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jpatryck04&layout=compact&theme=radical" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpatryck04&theme=radical" width="97%" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  🌎 <strong>Idiomas:</strong> 🇪🇸 Español (Nativo) &nbsp;•&nbsp; 🇺🇸 Inglés (En desarrollo)
+</p>
