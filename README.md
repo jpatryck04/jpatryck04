@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Patryck Yandell Jiménez Ogando
 
-### 💻 Software Developer | Full-Stack Developer | 🚀 Tecnología & Innovación
+### 💻 Software Developer | Full-Stack & Business Solutions
 
 <p align="center">
   <a href="mailto:patryckyandelljimenez@gmail.com">
@@ -20,11 +20,9 @@
 
 💡 *"Construir software no es solamente escribir código; es convertir problemas en soluciones."*
 
----
+<br />
 
-<p align="center">
-  🔐 <em>Soy Software Developer enfocado en el desarrollo de aplicaciones web, móviles y soluciones empresariales. Egresado del ITLA como Tecnólogo en Desarrollo de Software y actualmente cursando Ingeniería de Software en UNICARIBE. Me interesa construir software escalable, mantenible y orientado a resolver problemas reales.</em>
-</p>
+> 🔐 **Sobre mí:** Software Developer enfocado en el desarrollo de aplicaciones web, móviles y soluciones empresariales. Egresado del **ITLA** como Tecnólogo en Desarrollo de Software y estudiante de Ingeniería de Software en **UNICARIBE**. Apasionado por construir software escalable, mantenible y orientado a resolver problemas reales.
 
 </div>
 
@@ -32,42 +30,45 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <strong>Frontend & Mobile</strong><br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nextjs,vue,tailwind,ionic" alt="Frontend & Mobile" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>Backend & Databases</strong><br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,java,py,mysql,postgres,oracle,mongodb,supabase" alt="Backend & Databases" />
-  </a>
-</p>
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Frontend & Mobile** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nextjs,vue,tailwind,ionic" alt="Frontend & Mobile" /></a> |
+| **Backend & Databases** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,java,py,mysql,postgres,oracle,mongodb,supabase" alt="Backend & Databases" /></a> |
+| **DevOps & Cloud** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,visualstudio,androidstudio,powershell" alt="DevOps & Tools" /></a> |
 
-<p align="center">
-  <strong>Power Platform, DevOps & Tools</strong><br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,visualstudio,androidstudio,powershell" alt="DevOps & Tools" />
-  </a>
-</p>
+</div>
 
 ---
 
 ## 💼 Experiencia & Proyectos Profesionales
 
-### 🏥 Sistema de Gestión de Viáticos — MISPAS
+<details open>
+<summary><strong>🏥 Sistema de Gestión de Viáticos — MISPAS</strong></summary>
+
+<br />
+
 *Sistema web desarrollado para procesos institucionales del Ministerio de Salud Pública y Asistencia Social (MISPAS).*
 * **Desarrollo:** Aplicaciones web orientadas a procesos institucionales con interfaces en **Angular** y **TypeScript**.
 * **Integración:** Consumo e integración con **APIs REST** y bases de datos relacionales.
 * **Stack:** `Angular` `TypeScript` `REST API` `SQL` `Git`
 
-### 🏢 Soluciones Empresariales — Microsoft Power Platform
+</details>
+
+<br />
+
+<details open>
+<summary><strong>🏢 Soluciones Empresariales — Microsoft Power Platform</strong></summary>
+
+<br />
+
 *Desarrollo de soluciones empresariales utilizando el ecosistema de Microsoft Power Platform.*
 * **Sistemas e Inspecciones:** Gestión de inspecciones, control de tickets de combustible y notificaciones automatizadas.
 * **Automatización & Registro:** Automatización de procesos mediante **Power Automate**, firmas digitales e integración con **SharePoint** y **Outlook**.
 * **Stack:** `Power Apps` `Power Automate` `SharePoint` `Microsoft 365` `Outlook`
+
+</details>
 
 ---
 
@@ -77,7 +78,7 @@
 | :--- | :--- | :--- | :---: |
 | **EcoVigía RD** | Aplicación móvil para la gestión y seguimiento de información ambiental | `Vue 3` `TypeScript` `Capacitor` `Android` | [Ver Proyecto](https://github.com/jpatryck04/EcoVigia-rd.git) |
 | **Electronic Agenda** | Aplicación de escritorio para la gestión de contactos | `C#` `.NET` `Windows Forms` | [Ver Proyecto](https://github.com/jpatryck04/AgendaElectronica.git) |
-| **Web Calculator CI/CD** | Calculadora web con pruebas automatizadas y flujo CI/CD | `HTML` `CSS` `JS` `Node.js` `Jest` `GitHub Actions` | [Ver Proyecto](https://github.com/jpatryck04/aplicacion-ci-cd.git) |
+| **Web Calculator CI/CD** | Calculadora web con pruebas automatizadas y flujo CI/CD | `HTML` `CSS` `JS` `Node.js` `Jest` `Actions` | [Ver Proyecto](https://github.com/jpatryck04/aplicacion-ci-cd.git) |
 | **User Classification** | Clasificación y segmentación de usuarios mediante Machine Learning | `Python` `Machine Learning` | [Ver Proyecto](https://github.com/jpatryck04/Inteligencia_Artificial.git) |
 | **Ionic + Vue App** | Aplicación móvil interactiva con herramientas diversas | `Ionic 7` `Vue 3` `JavaScript` | [Ver Proyecto](https://github.com/jpatryck04/App_Movile_Ionic.git) |
 
@@ -94,10 +95,10 @@
 
 ## 🎓 Formación Académica
 
-* 🏛️ **Instituto Tecnológico de Las Américas (ITLA)** — *Tecnólogo en Desarrollo de Software* `🎓 Egresado`
-  * Formación técnica enfocada en desarrollo de software, programación, bases de datos, desarrollo web y fundamentos de ingeniería.
-* 🎓 **Universidad del Caribe (UNICARIBE)** — *Ingeniería de Software* `📚 Cursando actualmente`
-  * Formación universitaria orientada al diseño, desarrollo, gestión y arquitectura de soluciones de software.
+| Institución | Titulación / Carrera | Estado |
+| :--- | :--- | :---: |
+| **Instituto Tecnológico de Las Américas (ITLA)** | Tecnólogo en Desarrollo de Software | `🎓 Egresado` |
+| **Universidad del Caribe (UNICARIBE)** | Ingeniería de Software | `📚 Cursando` |
 
 ---
 
@@ -115,37 +116,9 @@
 <br />
 
 <p align="center">
-  <a href="https://www.credly.com/badges/42dca66c-72af-4fea-abd9-2b4d4d617531/public_url" target="_blank"><img src="./certificados/AWS-DLD.png" width="110" alt="AWS DLD Badge" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/a6901e3c-9821-47bc-bc0b-9cfaa65d5ebb/public_url" target="_blank"><img src="./certificados/ITE.png" width="110" alt="Credly Badge" /></a>&nbsp;&nbsp;&nbsp;<a href="./certificados/(CTFL).png"><img src="./certificados/(CTFL).png" width="110" alt="CTFL Badge" /></a>&nbsp;&nbsp;&nbsp;<a href="./certificados/(PSM1).png"><img src="./certificados/(PSM1).png" width="110" alt="PSM1 Badge" /></a>&nbsp;&nbsp;&nbsp;<a href="./certificados/(JSE1).png"><img src="./certificados/(JSE1).png" width="110" alt="JSE1 Badge" /></a>
+  <a href="https://www.credly.com/badges/42dca66c-72af-4fea-abd9-2b4d4d617531/public_url" target="_blank"><img src="./certificados/AWS-DLD.png" width="110" alt="AWS DLD Badge" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/a6901e3c-9821-47bc-bc0b-9cfaa65d5ebb/public_url" target="_blank"><img src="./certificados/NUEVA-INSIGNIA.png" width="110" alt="Credly Badge" /></a>&nbsp;&nbsp;&nbsp;<a href="./certificados/(CTFL).png"><img src="./certificados/(CTFL).png" width="110" alt="CTFL Badge" /></a>&nbsp;&nbsp;&nbsp;<a href="./certificados/(PSM1).png"><img src="./certificados/(PSM1).png" width="110" alt="PSM1 Badge" /></a>&nbsp;&nbsp;&nbsp;<a href="./certificados/(JSE1).png"><img src="./certificados/(JSE1).png" width="110" alt="JSE1 Badge" /></a>
 </p>
 
 ---
 
 ## 🎯 Enfoque Actual
-
-* 🔭 Desarrollando aplicaciones web y soluciones empresariales.
-* 🌱 Profundizando en **.NET** y arquitectura de software.
-* ⚙️ Explorando **DevOps**, **CI/CD** y automatización de procesos.
-* 🧪 Fortaleciendo conocimientos en testing, **QA** e integración continua.
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jpatryck04&label=Profile+Views&color=007ec6&style=flat-square" alt="Visitors" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jpatryck04&show_icons=true&theme=radical&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jpatryck04&layout=compact&theme=radical" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpatryck04&theme=radical" width="97%" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  🌎 <strong>Idiomas:</strong> 🇪🇸 Español (Nativo) &nbsp;•&nbsp; 🇺🇸 Inglés (En desarrollo)
-</p>
