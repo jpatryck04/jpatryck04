@@ -77,10 +77,7 @@
 
 📈 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpatryck04&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpatryck04&layout=compact&theme=radical&hide=html,css" alt="Top Languages" width="48%" />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jpatryck04&theme=radical)
 
 📫 Contact
 
