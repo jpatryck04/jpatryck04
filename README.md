@@ -68,11 +68,12 @@
 <br />
 
 <p align="center">
+  <a href="https://www.credly.com/badges/42dca66c-72af-4fea-abd9-2b4d4d617531/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/badge/42dca66c-72af-4fea-abd9-2b4d4d617531" width="110" alt="AWS DLD Badge" />
+  </a> &nbsp;&nbsp;
   <a href="./certificados/(CTFL).png"><img src="./certificados/(CTFL).png" width="110" alt="CTFL Badge" /></a> &nbsp;&nbsp;
   <a href="./certificados/(PSM1).png"><img src="./certificados/(PSM1).png" width="110" alt="PSM1 Badge" /></a> &nbsp;&nbsp;
-  <a href="./certificados/(JSE1).png"><img src="./certificados/(JSE1).png" width="110" alt="JSE1 Badge" /></a> &nbsp;&nbsp;
-  <a href="./certificados/AWS-DLD.png"><img src="./certificados/AWS-DLD.png" width="110" alt="AWS-DLD Badge" /></a> &nbsp;&nbsp;
-  
+  <a href="./certificados/(JSE1).png"><img src="./certificados/(JSE1).png" width="110" alt="JSE1 Badge" /></a>
 </p>
 
 ---
